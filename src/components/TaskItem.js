@@ -13,4 +13,3 @@ const TaskItem = ({ task, onEdit, onDelete, onToggleComplete }) => {
 };
 
 export default TaskItem;
-//taskitem

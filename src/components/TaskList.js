@@ -1,6 +1,5 @@
 import React from 'react';
 import TaskItem from './TaskItem';
-
 const TaskList = ({ tasks, onEdit, onDelete, onToggleComplete }) => {
   return (
     <ul>
